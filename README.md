@@ -1,5 +1,5 @@
 # Stock-priceprediction-LSTM
-I made a stock market prediction algorithm using LSTM
+I made a stock market prediction algorithm using LSTM on Amazon stock.
 
 I compared the results of this project with results from my [nlp-analysis](https://github.com/jay-esh/nlp-sentiment-analysis) project and plotted the predictions along with the actual data on a single graph
 
